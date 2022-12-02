@@ -1,1 +1,1 @@
-# Sentiment_analysis_model_Twitter
+# Sentiment analysis model with Tweepy API and VADER
